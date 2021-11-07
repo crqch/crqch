@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm currently studying on technical secondary school with main base of graphics in Poland. I'm also huge fan of church organs and a total beginnner in doing DIY things.
+I'm currently studying on technical secondary school with main base of graphics in Poland. I'm also huge fan of church organs and a total beginner in doing DIY things.
 I'm mostly comfortable with JavaScript language, but I like to take challenges!
 
 # Current projects 🧑‍💼
